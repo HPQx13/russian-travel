@@ -16,3 +16,7 @@
 * flex
 * адаптивная вёрстка
 * media запросы
+
+**GitHub**
+
+* [Ссылка на GitHub Pages](https://hpqx13.github.io/russian-travel/index.html)
