@@ -11,3 +11,9 @@
         line-height: 12px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .place__url-heading {
+        padding: 0 0 12px;
+    }
+}
