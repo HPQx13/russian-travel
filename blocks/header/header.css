@@ -7,15 +7,21 @@
     align-items: center;
 }
 
+@media screen and (max-width: 1279px) {
+    .header {
+        max-width: calc(100% - 2*48px);
+    }
+}
+
 @media screen and (max-width: 768px) {
     .header {
-        max-width: calc(100% - 48px);
+        max-width: calc(100% - 2*24px);
     }
 }
 
 @media screen and (max-width: 450px) {
     .header {
         padding: 16px 0 0;
-        max-width: calc(100% - 32px);
+        max-width: calc(100% - 2*16px);
     }
 }
